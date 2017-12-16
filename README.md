@@ -1,5 +1,10 @@
 # 比特币开发者指南 \| Bitcoin Developer Guide
 
+> 原文：[比特币开发者指南 | Bitcoin Developer Guide](https://github.com/0dayZh/bitcoin_developer_guide)
+
+> 作者：[0dayZh](https://github.com/0dayZh)
+
+
 ## 当前版本 \| Current Version
 
 | Name | Value |
