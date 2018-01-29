@@ -1,9 +1,6 @@
 # 比特币开发者指南 \| Bitcoin Developer Guide
 
-> 原文：[比特币开发者指南 | Bitcoin Developer Guide](https://github.com/0dayZh/bitcoin_developer_guide)
-
-> 作者：[0dayZh](https://github.com/0dayZh)
-
+> 本开源书 forked from [比特币开发者指南 | Bitcoin Developer Guide](https://github.com/0dayZh/bitcoin_developer_guide)，作者为 [0dayZh](https://github.com/0dayZh)，欢迎大家 star 原作者的 [repo](https://github.com/0dayZh/bitcoin_developer_guide)，以便获得最新更新，谢谢！
 
 ## 当前版本 \| Current Version
 
